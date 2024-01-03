@@ -6,7 +6,7 @@ This is a medical medication detection project based on edge computing and IoTta
 ## Edge Device Hardware (Ver. 2.0)
 
 > #### Devices:
-> * Computer: [NVIDIA Jetson Nano Developer Kit (4GB RAM)](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
+> * Computer: [RasberryPi 4B]
 > * Camera: [Logitech C922 PRO HD STREAM WEBCAM](https://www.logitech.com/zh-tw/products/webcams/c922-pro-stream-webcam.960-001091.html)
 > * Light controller: [Arduino Nano](https://store-usa.arduino.cc/products/arduino-nano?selectedStore=us)
 > * Barcode scanner: [FILUX FS-2800](https://www.filux.com.tw/products/scan-fs-2800)
