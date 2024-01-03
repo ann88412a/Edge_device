@@ -1,0 +1,9 @@
+google-api-python-client
+httplib2
+numpy
+oauth2client
+Pillow
+protobuf
+pyserial
+requests
+opencv-python

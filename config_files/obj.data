@@ -1,0 +1,6 @@
+classes = 9
+
+train  = ./config_files/train.txt
+valid  = ./config_files/test.txt
+names = ./config_files/obj.name
+backup = ./backup
